@@ -15,7 +15,7 @@ The goal of this PSR is to give researchers, project leads, upstream project lea
 
 Every project MUST provide a link to its security disclosure process in an obvious place. Ideally this should be on the root page the main domain of the given project. This MAY be a sub-domain in case it is a sub-project of a larger initiative. The link MAY use the custom link relation `php-vuln-reporting`, ie. for example `<link rel="php-vuln-reporting" href="http://example.org/security"/>`.
 
-Note that projects MAY not have a dedicated domain. For example a project hosted on Github, Bitbucket or other service should still ensure that the process is referenced on the landing page, ie. for example [](http://github.com/example/somelib) should ensure that the default branch has a README file which references the procedures used so that it is automatically displayed.
+Note that projects MAY not have a dedicated domain. For example a project hosted on Github, Bitbucket or other service should still ensure that the process is referenced on the landing page, ie. for example http://github.com/example/somelib should ensure that the default branch has a README file which references the procedures used so that it is automatically displayed.
 
 ## Default Procedures
 ***
