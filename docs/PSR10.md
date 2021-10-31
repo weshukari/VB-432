@@ -3,7 +3,7 @@
 
 There are two aspects with dealing with security issues: One is the process by which security issues are reported and fixed in projects, the other is how the general public is informed about the issues and any remedies available. While PSR-10 addresses the later, this PSR, ie. PSR-9, deals with the former. So the goal of PSR-9 is to define the process by which security researchers and report security vulnerabilities to projects. It is important that when security vulnerabilities are found that researchers have an easy channel to the projects in question allowing them to disclose the issue to a controlled group of people.
 
-The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [Link](http://tools.ietf.org/html/rfc2119 "RFC 2119").
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this document are to be interpreted as described in [RFC 2119](http://tools.ietf.org/html/rfc2119).
 
 ## Goal
 ***
