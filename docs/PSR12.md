@@ -35,11 +35,11 @@ class Foo extends Bar implements FooInterface
 }
 ```
 
-`*` Opening <?php tag.
-`*` File-level docblock.
-`*` One or more declare statements.
-`*` The namespace declaration of the file.
-`*` One or more class-based use import statements.
-`*` One or more function-based use import statements.
-`*` One or more constant-based use import statements.
-`*` The remainder of the code in the file.
+* Opening <?php tag.
+* File-level docblock.
+* One or more declare statements.
+* The namespace declaration of the file.
+* One or more class-based use import statements.
+* One or more function-based use import statements.
+* One or more constant-based use import statements.
+* The remainder of the code in the file.
