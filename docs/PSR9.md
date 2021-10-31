@@ -18,4 +18,4 @@ In addition the following tags are added:
 * remediationType (workaround, mitigation, vendor fix, none available, will not fix)
 * remediationLink (URL to give additional information for remediation)
 
-[link](https://tools.ietf.org/html/rfc4287)
+https://tools.ietf.org/html/rfc4287
